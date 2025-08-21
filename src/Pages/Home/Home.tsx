@@ -1,4 +1,4 @@
-import ExpenseTable from "./components/TransactionTable";
+import ExpenseTable from "./components/Table/TransactionTable";
 
 const Home = () => {
   return (
