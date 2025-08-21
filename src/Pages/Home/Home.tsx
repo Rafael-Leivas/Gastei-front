@@ -1,4 +1,4 @@
-import ExpenseTable from "./components/Table/TransactionTable";
+import TransactionTable from "./components/Table/TransactionTable";
 
 const Home = () => {
   return (
@@ -6,7 +6,7 @@ const Home = () => {
       <div className="">
 
         <div className="max-w-7xl mx-auto pt-20">
-          <ExpenseTable />
+          <TransactionTable />
         </div>
       </div>
     </>
